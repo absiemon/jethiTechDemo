@@ -1,0 +1,17 @@
+.active {
+  border-bottom: 4px solid #002550;
+  border-radius: 2px;
+  transition: border-bottom 0.3s ease-in-out;
+}
+
+.card {
+  border: 1px solid #D0D0D0; 
+}
+
+.card2{
+  box-shadow: 2px 2px 2px 1px lightgray;
+}
+
+#parent::-webkit-scrollbar {
+  display: none;
+}
